@@ -19,3 +19,6 @@ At the end just open ```start.bat``` and either drag or type in exact .jar file 
 
 ## Made for Educational purposes
 ##### Good for finding webhook urls inside hypixel skyblock mods
+
+How it works: 
+https://cdn.discordapp.com/attachments/871505820691607604/1001987243239538740/explorer_CVw8UlBWTr.mp4

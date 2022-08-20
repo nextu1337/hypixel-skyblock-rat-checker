@@ -1,5 +1,5 @@
 @echo off
-title rat-checker ^| nx2#9999
+title jar-url-checker ^| nx2#9999
 :a
 cls
 node index.js

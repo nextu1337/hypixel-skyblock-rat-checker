@@ -3,7 +3,7 @@ A program that looks for all the URLs in Java files. Mainly used for scanning su
 
 # Important information
 This program doesn't deobfuscate the jar file itself<br>
-Make sure the file is not obfuscated
+Make sure the file is not obfuscated when using it
 
 # Rats
 Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
